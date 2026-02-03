@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Gurobi logs
+*.log
+*.lp
+*.mst
+*.attr
+
+# Excel output files
+*.xls
+*.xlsx
+!solutions/.gitkeep
+
+# IDE settings
+.vscode/
+.idea/
