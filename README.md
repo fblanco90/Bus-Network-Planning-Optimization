@@ -24,7 +24,7 @@ The model is applied to the **Mandl's Swiss Network (1980)**, a benchmark instan
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/bus-network-optimization.git](https://github.com/fblanco90/bus-network-optimization.git)
+    git clone [https://github.com/your-username/bus-network-optimization.git](https://github.com/fblanco90/bus-network-planning-optimization.git)
     cd bus-network-optimization
     ```
 
