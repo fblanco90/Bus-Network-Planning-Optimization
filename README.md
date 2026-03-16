@@ -7,13 +7,13 @@ The project focuses on optimizing urban bus networks using mathematical programm
 1.  **Passenger Perspective:** Minimizing total travel time (waiting, in-vehicle, transfer, and walking time).
 2.  **Operator Perspective:** Maximizing network profitability (revenue vs. operational costs).
 
-The model is applied to the **Mandl's Swiss Network (1980)**, a benchmark instance in transit network design[cite: 1387, 1400].
+The model is applied to the **Mandl's Swiss Network (1980)**, a benchmark instance in transit network design.
 
 ## Features
 * **Iterative Design Model:** Generates bus lines, frequencies, and fleet sizes.
-* **Bimodal Graph:** Integrates bus and pedestrian layers to allow realistic transfers and walking options[cite: 1468, 1493].
+* **Bimodal Graph:** Integrates bus and pedestrian layers to allow realistic transfers and walking options.
 * **Gurobi Optimization:** Uses the Gurobi Optimizer to solve complex Mixed-Integer Linear Programming (MILP) formulations.
-* **Scenario Analysis:** Capable of running multiple scenarios varying in maximum lines, fleet size, and frequencies[cite: 1841].
+* **Scenario Analysis:** Capable of running multiple scenarios varying in maximum lines, fleet size, and frequencies.
 * **Visualization:** Outputs results to Excel and generates network graphs.
 
 ## Prerequisites
